@@ -5,7 +5,7 @@ Welcome to the Pokémon Explorer App! This application allows you to explore var
 ## How to Run
 
 1. Clone the repository:
-## git clone https://github.com/your-username/pokemon-explorer-app.git
+## git clone : https://github.com/rohan7745/pokemon-explorer-app.git
 -----------------------------------------------------------
 2. Navigate to the project directory: 
 
